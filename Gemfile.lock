@@ -1,0 +1,13 @@
+GEM
+  specs:
+    faraday (0.8.9)
+      multipart-post (~> 1.2.0)
+    multipart-post (1.2.0)
+    zulip (0.0.2)
+      faraday (>= 0.7, < 0.9)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  zulip
